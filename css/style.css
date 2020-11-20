@@ -1,0 +1,167 @@
+html {
+	background-image: url(../images/AI_15.png);
+	background-position: center;
+	background-size: cover;
+	/*color: #AFEEEE;*/
+	color: #00BFFF;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+.pdf_ver a{
+	color: #00BFFF;
+	float: left;
+	margin-left: 50px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-bottom: 15px;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 50px;
+  width: 183px;
+  margin-left: 800px;
+  position: static;
+}
+
+nav li {
+  float: right;
+  border-right: 1px solid white;
+}
+
+nav li a {
+  display: block;
+  color: #00BFFF;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1em;
+  font-style: italic;
+}
+
+nav li a:hover:not(.active) {
+  background-color: #AFEEEE;;
+}
+
+#page {
+	width: 60%;
+	margin: auto;
+}
+
+.objective {
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.skills {
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+	float: right;
+}
+
+.languages {
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+.packages{
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+.contact_info {
+	float: right;
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	/*margin-bottom: 15px;*/
+}
+
+.work_exp {
+	width: auto;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.education {
+	width: auto;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.education h3{
+	float: left;
+	margin-right: 75px;
+}
+
+.projects {
+	width: auto;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	padding: 15px;
+	margin-bottom: 15px;	
+}
+
+.research {
+	float: right;
+	width: 400px;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	/*margin-bottom: 15px;*/
+	padding: 15px;
+	margin-top: -15px;
+}
+
+.end {
+	text-align: center;
+	width: auto;
+	font-size: 75%;
+}
+
+.end a{
+	font-size: 75%;
+	color: #00BFFF;
+}
+
+.personalinfo {
+	width: auto;
+	background: rgba(255, 255, 255, 0.2);
+	border: 1px solid black;
+	position: relative;
+	margin-bottom: 15px;
+	padding: 10px;
+	
+}
+
+i {
+	padding-left: 10px;
+}
